@@ -34,8 +34,8 @@ public class Product {
 	/**
 	 * @param id the id to set
 	 */
-	public void setId(int id) {
-		this.id = id;
+	public void setId(int i) {
+		this.id = i;
 	}
 
 	/**
